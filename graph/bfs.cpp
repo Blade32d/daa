@@ -49,7 +49,7 @@ int main()
     int n,m;
     cout<<"enter no of vertex and edges\n";
     cin>>n>>m;
-    vector<int> a[m];
+    vector<int> a[n];
     vector<int> b;
     Graph ob;
     cout<<"Enter the edges";
